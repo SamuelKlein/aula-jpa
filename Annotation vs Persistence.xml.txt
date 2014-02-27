@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/17951297/is-there-a-way-to-scan-jpa-entities-not-to-declare-persistent-classes-in-a-persi
